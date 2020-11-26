@@ -6,3 +6,5 @@ third commit
 we have six lines  now
 
 someone made changes in master
+
+someone made changed in master
