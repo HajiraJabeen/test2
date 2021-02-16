@@ -1,10 +1,81 @@
-test
-fdsafd
-asfd
-as
-df
-adsf
-ds
-f
-dsf
-sdf
+# 2021-02-16 DataPLANT - CEPLAS JF
+
+## Meeting info
+Date: 16.02.2021 - 12:30
+
+Join Zoom Meeting
+https://zoom.us/j/96256721992?pwd=YkJZdFl6bnJFSWlyZzBWaXFTb05XQT09
+Meeting ID: 962 5672 1992
+Passcode: 456759
+One tap mobile
++493056795800,,96256721992#,,,,*456759# Germany
++496938079883,,96256721992#,,,,*456759# Germany
+Dial by your location
+        +49 30 5679 5800 Germany 
+
+
+## Attendees 
+@muehlhaus  
+@BjoernUsadel  
+@AngelaKranz  
+@HajiraJabeen  
+@mephenor 
+@omaus  
+@Brilator  
+
+
+---- 
+
+## Tasks from previous meetings
+- [x] Share meeting agendas at google docs for now (until better option is available by NFDI) @Brilator  
+  --> shared here.. 
+- [ ] polish transcriptomics / GEO template @HajiraJabeen @Brilator 
+- [ ] polish proteomics / PRIDE @omaus 
+- [ ] look into genomics repository and draft a template @AngelaKranz 
+
+## Discussion items
+
+### Front-end → Data Hub → user access 
+- Findability
+- Accessibility
+- Authentication, access control 
+There is a plan to add elastic search for searching metadata, range from investigation until moecular level search
+### Discuss options for a paper 
+- Pipeline (annotation → ARC→ converter) 
+- Expanding ISA Framework
+- Vanilla use-case 
+
+### Ontology development 
+- Mulon results shared, SEP has apx 44% overlap with other ontologies 
+- evolution based on user-built sheets
+- (live-)updates
+- tracking SWATE header refs 
+
+
+### Repository templating 
+https://github.com/nfdi4plants/Swate/discussions/107
+
+
+### ARC
+- protocols from facilities can be added
+- having a blocked template of multiple sheets, that can be filled / shared by different content creators ( e..g. facility head , and researcher)
+- work with Galaxy and Workflowhub to execute ARC
+- versioning and searching of ARC
+- 
+
+
+### Data sharing within DataPLANT
+- Memorandum of Understanding (MoU)
+- also with other DP partners, participants 
+
+----
+
+## Action items
+
+- [ ] Bjoern, Angela: share the list of ontologies for use in SWATE
+- [ ] Bjoern: oversee that MoU is developed 
+- [ ] Timo: Finalise the tool for sharing meeting minutes in DataPLANT ( ATM on Git)
+- [ ] Oliver: Protemoics template is ready
+- [ ] Angela: started working on Genomics template
+- [ ] Hajira: share the MULON results with Oliver
+
